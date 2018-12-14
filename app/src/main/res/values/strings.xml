@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lesson3HW</string>
+
+    <string-array name="car_types">
+        <item>Truck</item>
+        <item>Sedan</item>
+        <item>Van</item>
+        <item>Coupe</item>
+        <item>Wagon</item>
+        <item>Convertible</item>
+        <item>Crossover</item>
+    </string-array>
+</resources>
